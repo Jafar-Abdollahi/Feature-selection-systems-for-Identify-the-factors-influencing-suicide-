@@ -4,8 +4,8 @@ Suicide is a major public health problem, and suicide rates are still on the ris
 
 
 <h2> Dataset </h2>
-<img src=" "> 
-<img src=" "> 
+The dataset used in this research study was collected from Ardabil University of medical sciences. 
+Suicide dataset is collected from a private lab containing 600 patient reports with 28 attributes.    
 
 
 <h2> Methods </h2>
